@@ -77,3 +77,11 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+
+# Problem and Solution
+
+build err:
+Sandbox: rsync.samba(79655) deny(1) file-write-create ...
+
+https://qiita.com/yoshikiii/items/4abdc1c925cd2172ea78
