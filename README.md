@@ -81,7 +81,18 @@ To learn more about React Native, take a look at the following resources:
 
 # Problem and Solution
 
-build err:
+1. build err:
 Sandbox: rsync.samba(79655) deny(1) file-write-create ...
 
 https://qiita.com/yoshikiii/items/4abdc1c925cd2172ea78
+
+
+2. No component found for view with name "RNCSafeAreaProvider"
+
+https://github.com/react-navigation/react-navigation/issues/8964
+
+npm i react-native-safe-area-context
+cd ios
+pod install
+cd ..
+Run project!
